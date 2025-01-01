@@ -1,0 +1,209 @@
+[{
+  "_id": {
+    "$oid": "6675cab8513a43ac381ed1c7"
+  },
+  "orderNumber": "DH-1718995640323",
+  "salesId": {
+    "$oid": "6675c9d5513a43ac381ed154"
+  },
+  "medicines": [
+    {
+      "_id": "6675ca78513a43ac381ed1bb",
+      "name": "My Site 1",
+      "quantity": 2,
+      "usage": "after",
+      "outOfPill": false,
+      "price": 1234
+    },
+    {
+      "_id": "6675ca13513a43ac381ed17f",
+      "name": "testapp",
+      "quantity": 2,
+      "usage": "both",
+      "outOfPill": false,
+      "price": 12000
+    }
+  ],
+  "totalPrice": 26468,
+  "note": "Khong an do nong",
+  "status": "paid",
+  "paymentMethod": "banking",
+  "createdAt": {
+    "$date": "2024-06-21T18:47:20.324Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T18:47:20.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675ce88513a43ac381ed38e"
+  },
+  "orderNumber": "DH-1718996616159",
+  "medicalRecordId": {
+    "$oid": "6675cdb9513a43ac381ed331"
+  },
+  "salesId": {
+    "$oid": "6675c9d5513a43ac381ed154"
+  },
+  "patientId": {
+    "$oid": "6675cba9513a43ac381ed24c"
+  },
+  "medicines": [
+    {
+      "_id": "6675ca78513a43ac381ed1bb",
+      "name": "My Site 1",
+      "quantity": 5,
+      "usage": "after",
+      "outOfPill": false,
+      "price": 1234
+    },
+    {
+      "_id": "6675ca13513a43ac381ed17f",
+      "name": "testapp",
+      "quantity": 1,
+      "usage": "both",
+      "outOfPill": false,
+      "price": 12000
+    }
+  ],
+  "totalPrice": 18170,
+  "status": "paid",
+  "paymentMethod": "cash",
+  "createdAt": {
+    "$date": "2024-06-21T19:03:36.160Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T19:03:36.160Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d84a7d2a3a379c948986cb"
+  },
+  "orderNumber": "DH-1725450877700",
+  "medicalRecordId": {
+    "$oid": "66d849bd2a3a379c9489866b"
+  },
+  "salesId": {
+    "$oid": "6675c9d5513a43ac381ed154"
+  },
+  "patientId": {
+    "$oid": "6675cba9513a43ac381ed24c"
+  },
+  "medicines": [
+    {
+      "_id": "6675ca78513a43ac381ed1bb",
+      "name": "My Site 1",
+      "quantity": 2,
+      "usage": "after",
+      "outOfPill": false,
+      "price": 1234
+    },
+    {
+      "_id": "6675ca13513a43ac381ed17f",
+      "name": "testapp",
+      "quantity": 2,
+      "usage": "both",
+      "outOfPill": false,
+      "price": 12000
+    }
+  ],
+  "totalPrice": 26468,
+  "note": "cshsj",
+  "status": "paid",
+  "paymentMethod": "banking",
+  "createdAt": {
+    "$date": "2024-09-04T11:54:37.701Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-04T11:54:37.701Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6741cb416584c181d4c2327d"
+  },
+  "orderNumber": "DH-1732365121338",
+  "salesId": {
+    "$oid": "6675c9d5513a43ac381ed154"
+  },
+  "patientId": {
+    "$oid": "6712331c4e2a1ca1010158d0"
+  },
+  "medicines": [
+    {
+      "_id": "6675ca78513a43ac381ed1bb",
+      "name": "My Site 1",
+      "quantity": 4,
+      "usage": "after",
+      "outOfPill": false,
+      "price": 1234
+    },
+    {
+      "_id": "6675ca13513a43ac381ed17f",
+      "name": "testapp",
+      "quantity": 2,
+      "usage": "both",
+      "outOfPill": false,
+      "price": 12000
+    }
+  ],
+  "totalPrice": 28936,
+  "note": "cvghbj",
+  "status": "paid",
+  "paymentMethod": "cash",
+  "createdAt": {
+    "$date": "2024-11-23T12:32:01.338Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-23T12:32:01.338Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d1cf1416c920d12c01f37"
+  },
+  "orderNumber": "DH-1734155505306",
+  "medicalRecordId": {
+    "$oid": "675d1c62416c920d12c01ee7"
+  },
+  "salesId": {
+    "$oid": "6675c9d5513a43ac381ed154"
+  },
+  "patientId": {
+    "$oid": "675d1ae3416c920d12c01e72"
+  },
+  "medicines": [
+    {
+      "_id": "6675ca78513a43ac381ed1bb",
+      "name": "My Site 1",
+      "quantity": 4,
+      "usage": "after",
+      "outOfPill": false,
+      "price": 1234
+    },
+    {
+      "_id": "6675ca13513a43ac381ed17f",
+      "name": "testapp",
+      "quantity": 2,
+      "usage": "both",
+      "outOfPill": false,
+      "price": 12000
+    }
+  ],
+  "totalPrice": 28936,
+  "status": "paid",
+  "paymentMethod": "cash",
+  "createdAt": {
+    "$date": "2024-12-14T05:51:45.307Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T05:51:45.308Z"
+  },
+  "__v": 0
+}]
