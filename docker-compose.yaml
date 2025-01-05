@@ -1,27 +1,17 @@
 version: '3.8'
 services:
-  mongodb:
-    image: mongo:latest
-    container_name: mongodb
+  frontend:
+    build:
+      context: .  # Đường dẫn đến thư mục gốc của ứng dụng
+      dockerfile: Dockerfile # Tệp Dockerfile sử dụng để xây dựng image
+    container_name: frontend
+    image: frontend
     ports:
-      - "27017:27017"
-    volumes:
-      - mongodb_data:/data/db
-    environment:
-      MONGO_INITDB_ROOT_USERNAME: admin
-      MONGO_INITDB_ROOT_PASSWORD: admin123
+      - "5175:5175"
+    networks:
+      - network_shared
 
-  mongo-express:
-    image: mongo-express:latest
-    container_name: mongo-express
-    ports:
-      - "8081:8081"
-    environment:
-      ME_CONFIG_MONGODB_ADMINUSERNAME: admin
-      ME_CONFIG_MONGODB_ADMINPASSWORD: admin123
-      ME_CONFIG_MONGODB_SERVER: mongodb
-    depends_on:
-      - mongodb
 
-volumes:
-  mongodb_data:
+networks:
+  network_shared:
+    driver: bridge

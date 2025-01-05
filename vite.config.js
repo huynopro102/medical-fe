@@ -9,5 +9,14 @@ export default defineConfig({
     alias: {
       src: "/src",
     }
+  }, 
+  server: {
+    port: 5175, // Port bạn muốn sử dụng
+    host: true, // Needed for docker
+    strictPort: true, // Nếu port đã được sử dụng, Vite sẽ dừng thay vì thử port khác
+    // Các cấu hình server khác nếu cần
+    // watch: {
+    //   usePolling: true
+    // }
   }
 });
