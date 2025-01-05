@@ -2,11 +2,11 @@ pipeline {
     agent any
 
     stages {
-        stage('ssh to server with user ubuntu') {
+        stage('ssh to server with user tuanhuy') {
             steps {
-                sshagent(['ssh-remote-user-ubuntu']) {
+                sshagent(['ssh-remote-user-tuanhuy']) {
                     sh '''
-                        ssh -o StrictHostKeyChecking=no -l ubuntu 15.235.197.40 "cd /home/ubuntu && ./deploy_medical_fe.sh"
+                        ssh -o StrictHostKeyChecking=no -l tuanhuy 15.235.197.40 "cd /home/tuanhuy && ./deploy_medical_fe.sh"
                     '''
                 }
             }
