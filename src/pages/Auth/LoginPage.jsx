@@ -67,7 +67,7 @@ const LoginPage = () => {
         }}
       >
         <Typography.Title level={3} style={{ textAlign: "center" }}>
-          Đăng nhập
+          Đăng nhập Có CI/CDCD
         </Typography.Title>
         <Form.Item
           name="phone"
