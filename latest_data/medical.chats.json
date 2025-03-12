@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6676e8edeab6f0311849c04c"
+  },
+  "text": "bat app",
+  "to": "6675c93f513a43ac381ed127",
+  "sendBy": "6675c842778716200072893f",
+  "conversationId": {
+    "$oid": "6675c995513a43ac381ed139"
+  },
+  "createdAt": {
+    "$date": "2024-06-22T15:08:29.902Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675c99b513a43ac381ed142"
+  },
+  "text": "alo",
+  "to": "6675c842778716200072893f",
+  "sendBy": "6675c93f513a43ac381ed127",
+  "conversationId": {
+    "$oid": "6675c995513a43ac381ed139"
+  },
+  "createdAt": {
+    "$date": "2024-06-21T18:42:35.470Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671234224e2a1ca101015988"
+  },
+  "text": "anh nghe em oi",
+  "to": "6675c9d5513a43ac381ed154",
+  "sendBy": "6675c842778716200072893f",
+  "conversationId": {
+    "$oid": "6676e910eab6f0311849c055"
+  },
+  "createdAt": {
+    "$date": "2024-10-18T10:10:42.810Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671234134e2a1ca10101597d"
+  },
+  "text": "alo",
+  "to": "6675c842778716200072893f",
+  "sendBy": "6675c9d5513a43ac381ed154",
+  "conversationId": {
+    "$oid": "6676e910eab6f0311849c055"
+  },
+  "createdAt": {
+    "$date": "2024-10-18T10:10:27.654Z"
+  },
+  "__v": 0
+}]

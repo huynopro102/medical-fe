@@ -1,0 +1,308 @@
+[{
+  "_id": {
+    "$oid": "6675c842778716200072893f"
+  },
+  "fullName": "Admin",
+  "email": "admin@gmail.com",
+  "password": "$2b$09$UmOr/zjX/TRgOL4H95mKbuQ0Boe1fXQVfs1TGUDhMEk5WbijGGkD6",
+  "activeStatus": true,
+  "userType": "admin",
+  "gender": "male",
+  "createdAt": {
+    "$date": "2024-06-21T18:36:50.549Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T18:36:50.549Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6757d1196c30b1169d18a139"
+  },
+  "phone": "0999999999",
+  "password": "$2b$09$AKIMRyl3ZfJgtaEW8tD6NeDB6u4ULxExfjtEsazsuJXdYZbxKSDvW",
+  "activeStatus": true,
+  "userType": "user",
+  "createdAt": {
+    "$date": "2024-12-10T05:26:49.163Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-10T05:27:24.320Z"
+  },
+  "__v": 0,
+  "address": "Bcons Miền Đông",
+  "birthday": {
+    "$date": "2003-11-02T17:00:00.000Z"
+  },
+  "email": "takistech.dev@gmail.com",
+  "fullName": "Takis",
+  "gender": "male"
+},
+{
+  "_id": {
+    "$oid": "6712331c4e2a1ca1010158d0"
+  },
+  "fullName": "Chiến Nguyễn Minh",
+  "phone": "0392845980",
+  "password": "$2b$09$tIy9/rJ4sSk79WmymD4NROTyANiqOoOQFWJgp4Psi7atKKyg6ozpa",
+  "activeStatus": true,
+  "userType": "user",
+  "birthday": {
+    "$date": "2024-10-09T17:00:00.000Z"
+  },
+  "address": "568 Lê Văn Việt",
+  "note": "good",
+  "gender": "male",
+  "createdAt": {
+    "$date": "2024-10-18T10:06:20.139Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T10:06:20.139Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675725a1422b3c0bedf8a69c"
+  },
+  "phone": "0325886012",
+  "password": "$2b$09$.7/qBtFdrPRq7I/ZQgTzy.pYgGR3ChfAA/J1F1LVCR4S9sqCB49ya",
+  "activeStatus": true,
+  "userType": "user",
+  "createdAt": {
+    "$date": "2024-12-09T17:15:13.421Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-09T17:15:13.421Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d1ae3416c920d12c01e72"
+  },
+  "phone": "0392845866",
+  "password": "$2b$09$enz5/BCabrOrf4s0ObC7pu8D7dStg/75jobeiLRMh6oFvNHrriUt6",
+  "activeStatus": true,
+  "userType": "user",
+  "createdAt": {
+    "$date": "2024-12-14T05:42:59.533Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T05:44:40.180Z"
+  },
+  "__v": 0,
+  "birthday": {
+    "$date": "2024-12-14T05:44:14.292Z"
+  },
+  "email": "takistechcommunity@gmail.com",
+  "fullName": "minhchien",
+  "gender": "male"
+},
+{
+  "_id": {
+    "$oid": "67120541b3497d780579047f"
+  },
+  "phone": "0392845888",
+  "password": "$2b$09$hXSh4pc6GRDF/2gDnmSppuO.pJ7Kk77oUL35C5elLwoQAGPC/g1ZK",
+  "activeStatus": true,
+  "userType": "user",
+  "createdAt": {
+    "$date": "2024-10-18T06:50:41.284Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T06:50:56.601Z"
+  },
+  "__v": 0,
+  "birthday": {
+    "$date": "2024-10-18T06:50:45.133Z"
+  },
+  "email": "nguyenminhchien@gmail.com",
+  "fullName": "Chiến Nguyễn",
+  "gender": "male"
+},
+{
+  "_id": {
+    "$oid": "671234e14e2a1ca1010159b3"
+  },
+  "fullName": "Chiến Nguyễn",
+  "email": "nguyenminhchien123@gmail.com",
+  "phone": "0392845668",
+  "password": "$2b$09$SzIQnf3x54lDhQw8crKmKOwIgm41KNMmxwN1goQwwhepITjYRAQrC",
+  "activeStatus": true,
+  "userType": "doctor",
+  "birthday": {
+    "$date": "2024-10-02T17:00:00.000Z"
+  },
+  "address": "HN",
+  "gender": "male",
+  "specialty": "general",
+  "createdAt": {
+    "$date": "2024-10-18T10:13:53.178Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-23T12:33:19.163Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675ca50513a43ac381ed1b3"
+  },
+  "fullName": "test",
+  "phone": "0392845988",
+  "password": "$2b$09$qx19zxxW6uRZeKzuRd/GGeLTT65IQDjWkVz80bptpEG/WaU5xE5FG",
+  "activeStatus": false,
+  "userType": "user",
+  "birthday": {
+    "$date": "2024-06-03T17:00:00.000Z"
+  },
+  "address": "Thôn Châu Thuận Biển , Xã Bình Châu , Huyện Bình Sơn , Tỉnh Quảng Ngãi",
+  "note": "Test",
+  "gender": "male",
+  "createdAt": {
+    "$date": "2024-06-21T18:45:36.209Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T15:08:16.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675cba9513a43ac381ed24c"
+  },
+  "phone": "0392845909",
+  "password": "$2b$09$Be6286vjJUsDD6H16/ekFeRnqQqRjhAcF1J7y52SJZD.0VIwSc2uO",
+  "activeStatus": true,
+  "userType": "user",
+  "createdAt": {
+    "$date": "2024-06-21T18:51:21.766Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T15:06:59.982Z"
+  },
+  "__v": 0,
+  "address": "HCM",
+  "birthday": {
+    "$date": "2024-06-21T18:51:31.484Z"
+  },
+  "email": "takistechcommunity@gmail.com",
+  "fullName": "Chiến Nguyễn",
+  "gender": "male",
+  "photo": "b9124f4f-25f9-4b99-bb2a-56c17148ffcf-download (2).jpg"
+},
+{
+  "_id": {
+    "$oid": "67153656c4bc57a440a7612d"
+  },
+  "phone": "0325886011",
+  "password": "$2b$09$gy3B8gsp/gdC2cXaVqWmx.I7MFiE460l5EZVRAKyyaVKcr.EMsszO",
+  "activeStatus": true,
+  "userType": "user",
+  "createdAt": {
+    "$date": "2024-10-20T16:56:55.006Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-20T16:57:08.195Z"
+  },
+  "__v": 0,
+  "birthday": {
+    "$date": "2024-10-20T16:56:55.137Z"
+  },
+  "fullName": "Phạm Nguyên Quân",
+  "gender": "male"
+},
+{
+  "_id": {
+    "$oid": "6675cc29513a43ac381ed262"
+  },
+  "fullName": "BS",
+  "email": "takistech.dev@gmail.com",
+  "phone": "0392845999",
+  "password": "$2b$09$sFjrl8poAccKJVlx4VRsfOwzPEbRu5tL4vyCpBYeRgjZcvfrxGW3i",
+  "activeStatus": true,
+  "userType": "doctor",
+  "birthday": {
+    "$date": "2024-06-05T17:00:00.000Z"
+  },
+  "address": "HCM",
+  "gender": "male",
+  "specialty": "general",
+  "createdAt": {
+    "$date": "2024-06-21T18:53:29.574Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T18:53:29.574Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6741ca166584c181d4c2320d"
+  },
+  "phone": "0123456789",
+  "password": "$2b$09$Kyc7pK2xuSkbtyjy568GHOaxozimCYQyVGmJxs0mT1eH9iYd84xIe",
+  "activeStatus": true,
+  "userType": "user",
+  "createdAt": {
+    "$date": "2024-11-23T12:27:02.255Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-23T12:27:19.957Z"
+  },
+  "__v": 0,
+  "birthday": {
+    "$date": "2024-11-23T12:27:08.130Z"
+  },
+  "email": "minhchien03@gmail.com",
+  "fullName": "Chiến Nguyễn Minh",
+  "gender": "male"
+},
+{
+  "_id": {
+    "$oid": "6675c93f513a43ac381ed127"
+  },
+  "fullName": "takis",
+  "email": "nguyenminhchien2003@gmail.com",
+  "phone": "0392845906",
+  "password": "$2b$09$5Ysr1DNLRiJ6pV9xzgDL/Ox3DP3BiWnzQegtbnW1/JEESxUgBN5jG",
+  "activeStatus": true,
+  "userType": "administrative",
+  "birthday": {
+    "$date": "2024-06-05T17:00:00.000Z"
+  },
+  "address": "HCM",
+  "gender": "male",
+  "createdAt": {
+    "$date": "2024-06-21T18:41:03.194Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T18:41:03.194Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675c9d5513a43ac381ed154"
+  },
+  "fullName": "tech",
+  "email": "takis@gmail.com",
+  "phone": "0392845908",
+  "password": "$2b$09$JGKAnj3Jum4x91luBYyTIuecdJVl035PwaCJOatUeF00uiy2P0DLm",
+  "activeStatus": true,
+  "userType": "sales",
+  "birthday": {
+    "$date": "2023-05-31T17:00:00.000Z"
+  },
+  "address": "BD",
+  "gender": "male",
+  "createdAt": {
+    "$date": "2024-06-21T18:43:33.091Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-04T11:58:21.617Z"
+  },
+  "__v": 0
+}]

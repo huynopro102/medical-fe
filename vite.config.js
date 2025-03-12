@@ -7,8 +7,8 @@ export default defineConfig(({ mode }) => {
   // Thiết lập baseURL dựa trên môi trường
   const baseURL =
     mode === "development"
-      ? "http://localhost:3000"
-      : "https://huynguyen-nginx.io.vn:8888/api";
+      ? "http://localhost:5000"
+      : "http://localhost:5000/api";
 
   return {
     plugins: [react()],

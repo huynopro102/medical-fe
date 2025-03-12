@@ -1,0 +1,884 @@
+[{
+  "_id": {
+    "$oid": "67120a7e4e2a1ca101015770"
+  },
+  "patientId": {
+    "$oid": "67120541b3497d780579047f"
+  },
+  "doctorId": {
+    "$oid": "6675cc29513a43ac381ed262"
+  },
+  "date": "19/10/2024",
+  "time": "10:00",
+  "dateTime": {
+    "$date": "2024-10-19T03:00:00.000Z"
+  },
+  "status": "cancelled",
+  "specialty": "general",
+  "isExamined": false,
+  "createdAt": {
+    "$date": "2024-10-18T07:13:02.976Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T07:15:40.328Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6712087a73310e1a4082f8b9"
+  },
+  "patientId": {
+    "$oid": "67120541b3497d780579047f"
+  },
+  "doctorId": {
+    "$oid": "6675cc29513a43ac381ed262"
+  },
+  "date": "18/10/2024",
+  "time": "15:30",
+  "dateTime": {
+    "$date": "2024-10-18T08:30:00.000Z"
+  },
+  "status": "waiting",
+  "specialty": "general",
+  "isExamined": false,
+  "createdAt": {
+    "$date": "2024-10-18T07:04:26.231Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T10:05:21.730Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67120962a0d75729b55990f5"
+  },
+  "patientId": {
+    "$oid": "67120541b3497d780579047f"
+  },
+  "doctorId": {
+    "$oid": "6675cc29513a43ac381ed262"
+  },
+  "date": "18/10/2024",
+  "time": "16:00",
+  "dateTime": {
+    "$date": "2024-10-18T09:00:00.000Z"
+  },
+  "status": "booked",
+  "specialty": "general",
+  "isExamined": false,
+  "createdAt": {
+    "$date": "2024-10-18T07:08:18.361Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T07:08:18.361Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67120be14e2a1ca1010157a5"
+  },
+  "patientId": {
+    "$oid": "67120541b3497d780579047f"
+  },
+  "doctorId": {
+    "$oid": "6675cc29513a43ac381ed262"
+  },
+  "date": "19/10/2024",
+  "time": "09:00",
+  "dateTime": {
+    "$date": "2024-10-19T02:00:00.000Z"
+  },
+  "status": "cancelled",
+  "specialty": "general",
+  "isExamined": false,
+  "createdAt": {
+    "$date": "2024-10-18T07:18:57.674Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T07:31:16.278Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67120e054e2a1ca1010157d8"
+  },
+  "patientId": {
+    "$oid": "67120541b3497d780579047f"
+  },
+  "doctorId": {
+    "$oid": "6675cc29513a43ac381ed262"
+  },
+  "date": "19/10/2024",
+  "time": "08:30",
+  "dateTime": {
+    "$date": "2024-10-19T01:30:00.000Z"
+  },
+  "status": "cancelled",
+  "specialty": "general",
+  "isExamined": false,
+  "createdAt": {
+    "$date": "2024-10-18T07:28:05.999Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T07:31:19.205Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6712332b4e2a1ca1010158df"
+  },
+  "patientId": {
+    "$oid": "6712331c4e2a1ca1010158d0"
+  },
+  "doctorId": {
+    "$oid": "6675cc29513a43ac381ed262"
+  },
+  "date": "19/10/2024",
+  "time": "09:00",
+  "dateTime": {
+    "$date": "2024-10-19T02:00:00.000Z"
+  },
+  "status": "booked",
+  "specialty": "general",
+  "isExamined": false,
+  "createdAt": {
+    "$date": "2024-10-18T10:06:35.880Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T10:06:35.880Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6712091a356e481f6e61e651"
+  },
+  "patientId": {
+    "$oid": "67120541b3497d780579047f"
+  },
+  "doctorId": {
+    "$oid": "6675cc29513a43ac381ed262"
+  },
+  "date": "18/10/2024",
+  "time": "15:00",
+  "dateTime": {
+    "$date": "2024-10-18T08:00:00.000Z"
+  },
+  "status": "booked",
+  "specialty": "general",
+  "isExamined": false,
+  "createdAt": {
+    "$date": "2024-10-18T07:07:06.395Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T07:07:06.395Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675cc3b513a43ac381ed270"
+  },
+  "patientId": {
+    "$oid": "6675cba9513a43ac381ed24c"
+  },
+  "doctorId": {
+    "$oid": "6675cc29513a43ac381ed262"
+  },
+  "date": "22/06/2024",
+  "time": "13:00",
+  "dateTime": {
+    "$date": "2024-06-22T06:00:00.000Z"
+  },
+  "status": "finished",
+  "specialty": "general",
+  "isExamined": true,
+  "createdAt": {
+    "$date": "2024-06-21T18:53:47.249Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T19:00:24.377Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6715372e8139d9b58377ea02"
+  },
+  "patientId": {
+    "$oid": "67153656c4bc57a440a7612d"
+  },
+  "doctorId": {
+    "$oid": "671234e14e2a1ca1010159b3"
+  },
+  "date": "25/10/2024",
+  "time": "09:00",
+  "dateTime": {
+    "$date": "2024-10-25T02:00:00.000Z"
+  },
+  "status": "cancelled",
+  "specialty": "general",
+  "isExamined": false,
+  "createdAt": {
+    "$date": "2024-10-20T17:00:30.951Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-20T17:00:54.138Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6741ca516584c181d4c23224"
+  },
+  "patientId": {
+    "$oid": "6741ca166584c181d4c2320d"
+  },
+  "doctorId": {
+    "$oid": "671234e14e2a1ca1010159b3"
+  },
+  "date": "24/11/2024",
+  "time": "08:30",
+  "dateTime": {
+    "$date": "2024-11-24T01:30:00.000Z"
+  },
+  "status": "finished",
+  "specialty": "general",
+  "isExamined": true,
+  "createdAt": {
+    "$date": "2024-11-23T12:28:01.650Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T14:07:03.086Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d1b69416c920d12c01e8b"
+  },
+  "patientId": {
+    "$oid": "675d1ae3416c920d12c01e72"
+  },
+  "doctorId": {
+    "$oid": "671234e14e2a1ca1010159b3"
+  },
+  "date": "14/12/2024",
+  "time": "13:30",
+  "dateTime": {
+    "$date": "2024-12-14T06:30:00.000Z"
+  },
+  "status": "medicined",
+  "specialty": "general",
+  "isExamined": true,
+  "createdAt": {
+    "$date": "2024-12-14T05:45:13.090Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T05:51:52.035Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67120982a27cf4c8cb4f68aa"
+  },
+  "patientId": {
+    "$oid": "67120541b3497d780579047f"
+  },
+  "doctorId": {
+    "$oid": "6675cc29513a43ac381ed262"
+  },
+  "date": "18/10/2024",
+  "time": "16:30",
+  "dateTime": {
+    "$date": "2024-10-18T09:30:00.000Z"
+  },
+  "status": "cancelled",
+  "specialty": "general",
+  "isExamined": false,
+  "createdAt": {
+    "$date": "2024-10-18T07:08:50.905Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T07:10:39.691Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67120d1c4e2a1ca1010157bc"
+  },
+  "patientId": {
+    "$oid": "67120541b3497d780579047f"
+  },
+  "doctorId": {
+    "$oid": "6675cc29513a43ac381ed262"
+  },
+  "date": "24/10/2024",
+  "time": "08:00",
+  "dateTime": {
+    "$date": "2024-10-24T01:00:00.000Z"
+  },
+  "status": "cancelled",
+  "specialty": "general",
+  "isExamined": false,
+  "createdAt": {
+    "$date": "2024-10-18T07:24:12.760Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T07:31:13.134Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aeaa5785b5e5aa80b79ef"
+  },
+  "patientId": {
+    "$oid": "6757d1196c30b1169d18a139"
+  },
+  "doctorId": {
+    "$oid": "671234e14e2a1ca1010159b3"
+  },
+  "date": "13/12/2024",
+  "time": "08:00",
+  "dateTime": {
+    "$date": "2024-12-13T01:00:00.000Z"
+  },
+  "status": "booked",
+  "specialty": "general",
+  "isExamined": false,
+  "createdAt": {
+    "$date": "2024-12-12T13:52:37.820Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T13:52:37.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67120aa04e2a1ca101015782"
+  },
+  "patientId": {
+    "$oid": "67120541b3497d780579047f"
+  },
+  "doctorId": {
+    "$oid": "6675cc29513a43ac381ed262"
+  },
+  "date": "19/10/2024",
+  "time": "08:30",
+  "dateTime": {
+    "$date": "2024-10-19T01:30:00.000Z"
+  },
+  "status": "cancelled",
+  "specialty": "general",
+  "isExamined": false,
+  "createdAt": {
+    "$date": "2024-10-18T07:13:36.906Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T07:15:41.855Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67120e3b4e2a1ca1010157eb"
+  },
+  "patientId": {
+    "$oid": "67120541b3497d780579047f"
+  },
+  "doctorId": {
+    "$oid": "6675cc29513a43ac381ed262"
+  },
+  "date": "19/10/2024",
+  "time": "10:30",
+  "dateTime": {
+    "$date": "2024-10-19T03:30:00.000Z"
+  },
+  "status": "cancelled",
+  "specialty": "general",
+  "isExamined": false,
+  "createdAt": {
+    "$date": "2024-10-18T07:28:59.355Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T07:31:22.782Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671209a24e2a1ca101015735"
+  },
+  "patientId": {
+    "$oid": "67120541b3497d780579047f"
+  },
+  "doctorId": {
+    "$oid": "6675cc29513a43ac381ed262"
+  },
+  "date": "19/10/2024",
+  "time": "08:00",
+  "dateTime": {
+    "$date": "2024-10-19T01:00:00.000Z"
+  },
+  "status": "cancelled",
+  "specialty": "general",
+  "isExamined": false,
+  "createdAt": {
+    "$date": "2024-10-18T07:09:22.293Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T07:10:37.221Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d1b98416c920d12c01e9d"
+  },
+  "patientId": {
+    "$oid": "675d1ae3416c920d12c01e72"
+  },
+  "doctorId": {
+    "$oid": "671234e14e2a1ca1010159b3"
+  },
+  "date": "14/12/2024",
+  "time": "16:30",
+  "dateTime": {
+    "$date": "2024-12-14T09:30:00.000Z"
+  },
+  "status": "cancelled",
+  "specialty": "general",
+  "isExamined": false,
+  "createdAt": {
+    "$date": "2024-12-14T05:46:00.321Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T05:46:14.785Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67120e614e2a1ca1010157fe"
+  },
+  "patientId": {
+    "$oid": "67120541b3497d780579047f"
+  },
+  "doctorId": {
+    "$oid": "6675cc29513a43ac381ed262"
+  },
+  "date": "19/10/2024",
+  "time": "11:00",
+  "dateTime": {
+    "$date": "2024-10-19T04:00:00.000Z"
+  },
+  "status": "cancelled",
+  "specialty": "general",
+  "isExamined": false,
+  "createdAt": {
+    "$date": "2024-10-18T07:29:37.418Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T07:31:26.251Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671211724e2a1ca10101588a"
+  },
+  "patientId": {
+    "$oid": "67120541b3497d780579047f"
+  },
+  "doctorId": {
+    "$oid": "6675cc29513a43ac381ed262"
+  },
+  "date": "20/10/2024",
+  "time": "08:00",
+  "dateTime": {
+    "$date": "2024-10-20T01:00:00.000Z"
+  },
+  "status": "cancelled",
+  "specialty": "general",
+  "isExamined": false,
+  "createdAt": {
+    "$date": "2024-10-18T07:42:42.118Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T07:43:20.750Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67153681c4bc57a440a76141"
+  },
+  "patientId": {
+    "$oid": "67153656c4bc57a440a7612d"
+  },
+  "doctorId": {
+    "$oid": "671234e14e2a1ca1010159b3"
+  },
+  "date": "22/10/2024",
+  "time": "13:00",
+  "dateTime": {
+    "$date": "2024-10-22T06:00:00.000Z"
+  },
+  "status": "cancelled",
+  "specialty": "general",
+  "isExamined": false,
+  "createdAt": {
+    "$date": "2024-10-20T16:57:37.381Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-20T16:59:58.201Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67120e964e2a1ca101015811"
+  },
+  "patientId": {
+    "$oid": "67120541b3497d780579047f"
+  },
+  "doctorId": {
+    "$oid": "6675cc29513a43ac381ed262"
+  },
+  "date": "24/10/2024",
+  "time": "08:30",
+  "dateTime": {
+    "$date": "2024-10-24T01:30:00.000Z"
+  },
+  "status": "cancelled",
+  "specialty": "general",
+  "isExamined": false,
+  "createdAt": {
+    "$date": "2024-10-18T07:30:30.136Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T07:31:14.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675725cd422b3c0bedf8a6ac"
+  },
+  "patientId": {
+    "$oid": "67153656c4bc57a440a7612d"
+  },
+  "doctorId": {
+    "$oid": "671234e14e2a1ca1010159b3"
+  },
+  "date": "10/12/2024",
+  "time": "08:00",
+  "dateTime": {
+    "$date": "2024-12-10T01:00:00.000Z"
+  },
+  "status": "booked",
+  "specialty": "general",
+  "isExamined": false,
+  "createdAt": {
+    "$date": "2024-12-09T17:15:57.912Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-09T17:15:57.912Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671536b8c4bc57a440a7615a"
+  },
+  "patientId": {
+    "$oid": "67153656c4bc57a440a7612d"
+  },
+  "doctorId": {
+    "$oid": "671234e14e2a1ca1010159b3"
+  },
+  "date": "27/10/2024",
+  "time": "09:00",
+  "dateTime": {
+    "$date": "2024-10-27T02:00:00.000Z"
+  },
+  "status": "cancelled",
+  "specialty": "general",
+  "isExamined": false,
+  "createdAt": {
+    "$date": "2024-10-20T16:58:32.165Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-20T17:00:00.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6757d1726c30b1169d18a158"
+  },
+  "patientId": {
+    "$oid": "6757d1196c30b1169d18a139"
+  },
+  "doctorId": {
+    "$oid": "6675cc29513a43ac381ed262"
+  },
+  "date": "10/12/2024",
+  "time": "13:00",
+  "dateTime": {
+    "$date": "2024-12-10T06:00:00.000Z"
+  },
+  "status": "booked",
+  "specialty": "general",
+  "isExamined": false,
+  "createdAt": {
+    "$date": "2024-12-10T05:28:18.379Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-10T05:28:18.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67120a2c4e2a1ca10101575e"
+  },
+  "patientId": {
+    "$oid": "67120541b3497d780579047f"
+  },
+  "doctorId": {
+    "$oid": "6675cc29513a43ac381ed262"
+  },
+  "date": "19/10/2024",
+  "time": "09:00",
+  "dateTime": {
+    "$date": "2024-10-19T02:00:00.000Z"
+  },
+  "status": "cancelled",
+  "specialty": "general",
+  "isExamined": false,
+  "createdAt": {
+    "$date": "2024-10-18T07:11:40.058Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T07:15:38.623Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671210e24e2a1ca10101586f"
+  },
+  "patientId": {
+    "$oid": "67120541b3497d780579047f"
+  },
+  "doctorId": {
+    "$oid": "6675cc29513a43ac381ed262"
+  },
+  "date": "19/10/2024",
+  "time": "09:00",
+  "dateTime": {
+    "$date": "2024-10-19T02:00:00.000Z"
+  },
+  "status": "cancelled",
+  "specialty": "general",
+  "isExamined": false,
+  "createdAt": {
+    "$date": "2024-10-18T07:40:18.419Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T07:43:23.853Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67120dad4e2a1ca1010157c9"
+  },
+  "patientId": {
+    "$oid": "67120541b3497d780579047f"
+  },
+  "doctorId": {
+    "$oid": "6675cc29513a43ac381ed262"
+  },
+  "date": "19/10/2024",
+  "time": "09:30",
+  "dateTime": {
+    "$date": "2024-10-19T02:30:00.000Z"
+  },
+  "status": "cancelled",
+  "specialty": "general",
+  "isExamined": false,
+  "createdAt": {
+    "$date": "2024-10-18T07:26:37.986Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T07:31:21.083Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6712103c4e2a1ca101015845"
+  },
+  "patientId": {
+    "$oid": "67120541b3497d780579047f"
+  },
+  "doctorId": {
+    "$oid": "6675cc29513a43ac381ed262"
+  },
+  "date": "19/10/2024",
+  "time": "08:30",
+  "dateTime": {
+    "$date": "2024-10-19T01:30:00.000Z"
+  },
+  "status": "cancelled",
+  "specialty": "general",
+  "isExamined": false,
+  "createdAt": {
+    "$date": "2024-10-18T07:37:32.081Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T07:37:51.187Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675725f1422b3c0bedf8a6be"
+  },
+  "patientId": {
+    "$oid": "67153656c4bc57a440a7612d"
+  },
+  "doctorId": {
+    "$oid": "6675cc29513a43ac381ed262"
+  },
+  "date": "10/12/2024",
+  "time": "08:00",
+  "dateTime": {
+    "$date": "2024-12-10T01:00:00.000Z"
+  },
+  "status": "booked",
+  "specialty": "general",
+  "isExamined": false,
+  "createdAt": {
+    "$date": "2024-12-09T17:16:33.579Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-09T17:16:33.579Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6757d0ca6c30b1169d18a12d"
+  },
+  "patientId": {
+    "$oid": "67153656c4bc57a440a7612d"
+  },
+  "doctorId": {
+    "$oid": "671234e14e2a1ca1010159b3"
+  },
+  "date": "10/12/2024",
+  "time": "14:00",
+  "dateTime": {
+    "$date": "2024-12-10T07:00:00.000Z"
+  },
+  "status": "booked",
+  "specialty": "general",
+  "isExamined": false,
+  "createdAt": {
+    "$date": "2024-12-10T05:25:30.792Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-10T05:25:30.792Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d848642a3a379c94898612"
+  },
+  "patientId": {
+    "$oid": "6675cba9513a43ac381ed24c"
+  },
+  "doctorId": {
+    "$oid": "6675cc29513a43ac381ed262"
+  },
+  "date": "05/09/2024",
+  "time": "10:00",
+  "dateTime": {
+    "$date": "2024-09-05T03:00:00.000Z"
+  },
+  "status": "finished",
+  "specialty": "general",
+  "isExamined": true,
+  "createdAt": {
+    "$date": "2024-09-04T11:45:40.271Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-04T11:51:48.537Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671210ca4e2a1ca10101585c"
+  },
+  "patientId": {
+    "$oid": "67120541b3497d780579047f"
+  },
+  "doctorId": {
+    "$oid": "6675cc29513a43ac381ed262"
+  },
+  "date": "19/10/2024",
+  "time": "08:30",
+  "dateTime": {
+    "$date": "2024-10-19T01:30:00.000Z"
+  },
+  "status": "cancelled",
+  "specialty": "general",
+  "isExamined": false,
+  "createdAt": {
+    "$date": "2024-10-18T07:39:54.850Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T07:43:22.124Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d7900416c920d12c01fae"
+  },
+  "patientId": {
+    "$oid": "675d1ae3416c920d12c01e72"
+  },
+  "doctorId": {
+    "$oid": "671234e14e2a1ca1010159b3"
+  },
+  "date": "15/12/2024",
+  "time": "09:00",
+  "dateTime": {
+    "$date": "2024-12-15T02:00:00.000Z"
+  },
+  "status": "examining",
+  "specialty": "general",
+  "isExamined": false,
+  "createdAt": {
+    "$date": "2024-12-14T12:24:32.742Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T12:25:08.210Z"
+  },
+  "__v": 0
+}]

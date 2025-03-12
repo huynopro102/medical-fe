@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "66d849bd2a3a379c9489866b"
+  },
+  "appointmentId": {
+    "$oid": "66d848642a3a379c94898612"
+  },
+  "patientId": {
+    "$oid": "6675cba9513a43ac381ed24c"
+  },
+  "doctorId": {
+    "$oid": "6675cc29513a43ac381ed262"
+  },
+  "files": [
+    "faa9b210-5fb4-408c-8188-9f9f28945634-bc.jpg"
+  ],
+  "result": "Tốt, không có vấn đề gì",
+  "note": "không ăn nóng",
+  "medicines": [
+    {
+      "_id": "6675ca78513a43ac381ed1bb",
+      "name": "My Site 1",
+      "quantity": 2,
+      "usage": "after",
+      "outOfPill": false,
+      "price": 1234
+    },
+    {
+      "_id": "6675ca13513a43ac381ed17f",
+      "name": "testapp",
+      "quantity": 2,
+      "usage": "both",
+      "outOfPill": false,
+      "price": 12000
+    }
+  ],
+  "status": "medicined",
+  "createdAt": {
+    "$date": "2024-09-04T11:51:25.992Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-04T11:51:25.992Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675cdb9513a43ac381ed331"
+  },
+  "appointmentId": {
+    "$oid": "6675cc3b513a43ac381ed270"
+  },
+  "patientId": {
+    "$oid": "6675cba9513a43ac381ed24c"
+  },
+  "doctorId": {
+    "$oid": "6675cc29513a43ac381ed262"
+  },
+  "files": [
+    "6e2712a7-947a-4125-aa18-fbed6ce38582-images.jpg"
+  ],
+  "result": "Good",
+  "note": "Test",
+  "medicines": [
+    {
+      "_id": "6675ca78513a43ac381ed1bb",
+      "name": "My Site 1",
+      "quantity": 5,
+      "usage": "after",
+      "outOfPill": false,
+      "price": 1234
+    },
+    {
+      "_id": "6675ca13513a43ac381ed17f",
+      "name": "testapp",
+      "quantity": 1,
+      "usage": "both",
+      "outOfPill": false,
+      "price": 12000
+    }
+  ],
+  "status": "medicined",
+  "createdAt": {
+    "$date": "2024-06-21T19:00:09.285Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T19:00:09.285Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d1c62416c920d12c01ee7"
+  },
+  "appointmentId": {
+    "$oid": "675d1b69416c920d12c01e8b"
+  },
+  "patientId": {
+    "$oid": "675d1ae3416c920d12c01e72"
+  },
+  "doctorId": {
+    "$oid": "671234e14e2a1ca1010159b3"
+  },
+  "files": [
+    "a1a7036c-3d2f-4d11-a4fc-1f8bbe0aa977-58d587dffc74462a1f65.jpg"
+  ],
+  "result": "Viem phe quan",
+  "note": "Khong an uong lanh, nuoc da",
+  "medicines": [
+    {
+      "_id": "6675ca78513a43ac381ed1bb",
+      "name": "My Site 1",
+      "quantity": 4,
+      "usage": "after",
+      "outOfPill": false,
+      "price": 1234
+    },
+    {
+      "_id": "6675ca13513a43ac381ed17f",
+      "name": "testapp",
+      "quantity": 2,
+      "usage": "both",
+      "outOfPill": false,
+      "price": 12000
+    }
+  ],
+  "status": "medicined",
+  "createdAt": {
+    "$date": "2024-12-14T05:49:22.576Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T05:49:22.576Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6741cae86584c181d4c23250"
+  },
+  "appointmentId": {
+    "$oid": "6741ca516584c181d4c23224"
+  },
+  "patientId": {
+    "$oid": "6741ca166584c181d4c2320d"
+  },
+  "doctorId": {
+    "$oid": "671234e14e2a1ca1010159b3"
+  },
+  "files": [
+    "f6693f0b-4467-4508-b6c3-490f9bbdde04-images (7).jpg"
+  ],
+  "result": "ghfhgghg",
+  "note": "an kieng",
+  "medicines": [
+    {
+      "_id": "6675ca13513a43ac381ed17f",
+      "name": "testapp",
+      "quantity": 2,
+      "usage": "both",
+      "outOfPill": false,
+      "price": 12000
+    },
+    {
+      "_id": "6675ca78513a43ac381ed1bb",
+      "name": "My Site 1",
+      "quantity": 4,
+      "usage": "after",
+      "outOfPill": false,
+      "price": 1234
+    }
+  ],
+  "status": "examined",
+  "createdAt": {
+    "$date": "2024-11-23T12:30:32.488Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-23T12:30:32.488Z"
+  },
+  "__v": 0
+}]
